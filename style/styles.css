@@ -41,7 +41,7 @@ h1{
 
 .lev{
     position: absolute;
-    top: 199.5%;
+    top: 189.7%;
     width: 50%;
     left: -25%;
 }
@@ -62,7 +62,7 @@ h1{
 
 .bloq{
     position: absolute;
-    top: 110.5%;
+    top: 111%;
     width: 25%;
     left: 40%;
 }
@@ -85,7 +85,7 @@ h1{
 
 .at{
     position: absolute;
-    top: 110.5%;
+    top: 111%;
     width: 28%;
     left: 70%; 
 }
@@ -107,7 +107,7 @@ h1{
 
 .rec{
     position: absolute;
-    top: 189.5%;
+    top: 190%;
     width: 28%;
     left: 20%; 
 }
@@ -129,7 +129,7 @@ h1{
 
 .saq{
     position: absolute;
-    top: 189.5%;
+    top: 190%;
     width: 28%;
     left: 60%; 
 }
