@@ -1,0 +1,48 @@
+body{
+    background-color: gray;
+    background-image: url(../img/AtqueBG.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    position: absolute;
+    font-size: 5em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 1%;
+    width: 50%;
+    left: 25%;
+    background-color: rgba(255, 255, 0, 0.692)
+}
+
+.atq{
+    text-align: justify;
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25;
+    background-color: rgba(255, 255, 255, 0.89);
+    padding: 2%;
+    top: 40%;
+    left: 24%;
+    width: 50%;
+}
+
+.iat{
+    position: absolute;
+    top: 92%;
+    width: 30%;
+    left: 35%;
+    opacity: 95%;
+}
+
+.vat{
+    position: absolute;
+    top: 134%;
+    width: 60%;
+    left: 20%;
+    opacity: 90;
+}
